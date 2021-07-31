@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+
+nav {
+    background-color: #CAF55F;
+    overflow: hidden;
+}
+a {
+    padding: 1.5% 20px;
+    text-align: center;
+    float: right; 
+    text-decoration: none;
+    color: #004763;
+}
+.side-img {
+    margin-top: 10%;
+}
+h1 {
+    color: #00B4ff;
+    margin-top: 5%;
+}
+.home {
+    display: flex;
+    align-items: center;
+}

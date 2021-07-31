@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+
+nav {
+    background-color: #CAF55F;
+    overflow: hidden;
+}
+.nav-link {
+    padding: 1.5% 20px;
+    text-align: center;
+    float: right; 
+    text-decoration: none;
+    color: #004763;
+}
+li {
+    margin: 15px 20px;
+    color: #004763;
+}
+p {
+    margin: 15px 20px;
+    color: #004763;
+}
+h2 {
+    margin: 15px;
+    color: #00B4FF;
+}
+h3 {
+    margin: 15px;
+    color: #01cc2d;
+}
